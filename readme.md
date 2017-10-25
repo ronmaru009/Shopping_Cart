@@ -1,7 +1,7 @@
 
-#Simple Shopping Cart Activity
+# Simple Shopping Cart Activity
 
-##Screenshots
+## Screenshots
 
 ![](https://github.com/ronmaru009/Shopping_cart/blob/master/Screenshots/1.PNG)
 ![](https://github.com/ronmaru009/Shopping_cart/blob/master/Screenshots/2.PNG)
